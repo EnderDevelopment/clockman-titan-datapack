@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "clockman_titans",
+  "version": "${version}",
+  "name": "Clockman Titans",
+  "description": "Clockman Titan 1.0 and 2.0 equipment and powers, controlled by a clock menu.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.enderdevelopment.clockmantitans.ClockmanTitans"],
+    "client": ["com.enderdevelopment.clockmantitans.ClockmanClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

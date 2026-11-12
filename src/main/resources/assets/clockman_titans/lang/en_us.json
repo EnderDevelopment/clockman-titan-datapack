@@ -1,0 +1,16 @@
+{
+  "item.clockman_titans.clock_menu": "Clockman Menu Clock",
+  "item.clockman_titans.titan_1_core": "Clockman Titan 1.0 Core",
+  "item.clockman_titans.titan_2_core": "Clockman Titan 2.0 Core",
+  "item.clockman_titans.time_blade": "Time Blade",
+  "item.clockman_titans.giant_clock": "Giant Clock",
+  "screen.clockman_titans.menu": "CLOCKMAN TITANS",
+  "screen.clockman_titans.equipment": "EQUIPMENT",
+  "screen.clockman_titans.powers": "POWERS",
+  "screen.clockman_titans.titan_1": "Titan 1.0 equipment",
+  "screen.clockman_titans.titan_2": "Titan 2.0 equipment",
+  "screen.clockman_titans.time_stop": "Time Stop",
+  "screen.clockman_titans.time_burst": "Time Burst",
+  "screen.clockman_titans.rewind": "Rewind Shield",
+  "screen.clockman_titans.cooldown": "Power cooling down"
+}
